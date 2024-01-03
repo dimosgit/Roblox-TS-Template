@@ -3,3 +3,6 @@
 /include
 *.tsbuildinfo
 flamework.build
+
+#Remove all .ds_store files
+.DS_Store
